@@ -136,7 +136,7 @@
 // };
 
 // export default Card;
-import React from "react";
+
 
 interface Props {
   title: string;

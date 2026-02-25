@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react'
+import  { useEffect, useRef } from 'react'
 import CardSolution from './CardSolution';
 import gsap from 'gsap';
 import tracks from '../assets/images/tracks.png'
